@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Second powder-plot, discovered in his Excellency the Lord Generalls armie truly relating the manner of this desperate, cowardly, and malignant plot, in two severall letters : the first from one of the lifeguard to his brother in London : the other from a Lievtenant in the armie.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29594</idno><idno type="EEBO-CITATION">11995402</idno>
+  <idno type="VID">196455</idno>
+  <idno type="EEBO-PROQUEST">2240922644</idno>
+  
+            <idno type="STC">Wing S2328</idno>
+            <idno type="OCLC">11995402</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196455)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 229:E8, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Second powder-plot, discovered in his Excellency the Lord Generalls armie truly relating the manner of this desperate, cowardly, and malignant plot, in two severall letters : the first from one of the lifeguard to his brother in London : the other from a Lievtenant in the armie.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>September 5, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">One of the lifeguard.</term>
+               <term type="personal_name">Lieutenant in the armie.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196455:1"/>
+            <p>A SECOND POWDER-PLOT, Discovered in his EXCELLENCY the LORD GENERALLS Armie. Truly relating the manner of this de<g ref="char:EOLhyphen"/>sperate, cowardly, and malignant PLOT: In two severall Letters. The first from one of the Lifeguard to his Brother in LONDON. The other from a Lievtenant in the ARMIE.</p>
+            <p>Published according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons,</hi> September 5. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="reports">
+            <pb facs="tcp:196455:2"/>
+            <pb n="3" facs="tcp:196455:2"/>
+            <head>TWO LETTERS; Discovering a second <hi>Powder-Plott</hi> in his Excellency the Lord Generalls Armie: wherein the admirable hand of GOD hath appeared.</head>
+            <div type="letter">
+               <opener>
+                  <salute>Loving SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Hope you have received the Last I writ of the 15<seg rend="sup">th</seg> Instant, wherein I certified you that the Army was twentie miles into <hi>Cornwall,</hi> where the King with his own Army, Prince <hi>Maurices, Hoptons,</hi> and <hi>Green<g ref="char:EOLhyphen"/>vils</hi> had laine about a weeke, within halfe a mile of us. Since which time the Enemy hath marched downe upon us, and wee have been in Skirmish a weeke to morrow morning; in which time, blessed be God, wee have lost none of note, and but very few private Souldiers. What the Enemy hath lost I know not. The reason the Battle hath conti<g ref="char:EOLhyphen"/>nued so long, and is like to continue much lon<g ref="char:EOLhyphen"/>ger,
+<pb n="4" facs="tcp:196455:3"/> is in regard both Armies are within inclosures: wee are come very neare one of the other: many of our great Pieces and theirs are within Musket-shot of each other: The Enemy doth confidently assure themselves of Victory, using many opprobrious speeches to us; for wee have much talke with them. The first morning they fell opon us, I was sent out <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a partie of men to encounter them; wee had very hot service all day, and were within ten yards one of another; sometimes wee argue together, som times wee scoulded together like the Fish-wo<g ref="char:EOLhyphen"/>men in <hi>Cheap-side,</hi> and sometimes wee fought very hot; wee were so neare, that sometimes the Kings men would leape over the hedge into the midst of us, taking us for their owne men: They use all the power, violence, and treachery they can, to destroy and cut us off. But in God in whom our strength doth lie, and on whom the eyes of our farewell are fixed for succour and reliefe, hath hitherto helped us, and owned his owne Cause, and given us and the whole Kingdome new experience of his love and goodnesse to us, in preventing the treacherous de<g ref="char:EOLhyphen"/>signe of our Enemies: yesterday the Enemy were readie all to fall upon us at once, and that they might more surely prevaile against us, had procured one
+<pb n="5" facs="tcp:196455:3"/> whom yet wee have not found out, to blow up our Traine, and had so farre effected it, that the wild-fire and lighted Matches were put into some Wag<g ref="char:EOLhyphen"/>gons; one Match (by the providence of God) con<g ref="char:EOLhyphen"/>trary to the nature of Match, went out of it selfe, and another Match was found burning in a tynne Box, ready to give fire to the wild-fire. I hope the delive<g ref="char:EOLhyphen"/>rance from this second <hi>Gunpowder-Plot,</hi> will never be forgotten by us: The Lord is good to us in pro<g ref="char:EOLhyphen"/>viding for us in so barren a place. Wee were above a fortnight without Beere, but now wee have some sometimes from the Lord of <hi>Warwick,</hi> as also Bisket, Butter and Cheese, so that, blessed be God, wee are in no great want. Wee daily expect Collonell <hi>Mid<g ref="char:EOLhyphen"/>dleton</hi> to come to us with reliefe. Wee question not but the Lord will either sustaine and strengthen us, or else will supply us with reliefe in due season.</p>
+               <closer>
+                  <dateline>
+                     <date>August 26<seg rend="sup">th.</seg>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:196455:4"/>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Sabbathi</hi> 25 Aug. 1644.</date>
+                  </dateline>
+                  <salute>Loving Brother my best respect presented.</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">W</seg>EE lie now at <hi>Leatthell</hi> in the middle of <hi>Cornwall,</hi> where wee have en<g ref="char:EOLhyphen"/>dured much hardship for want of bread, yet find provision beyond expression, blessed be God. When wee entred <hi>Cornwall</hi> at <hi>Lanceston,</hi> where wee tooke sixtie barrells of Powder, besides great store of Ammunition, and twelve Pieces of Ordnance taken at <hi>Salt-Ash:</hi> and likewise two hundred Prisoners: The 22 of this moneth we fought from morning to night, and thorow Gods mercy wee had but little losse; but divers of the Enemy. The 25 of this moneth being Sabbath day, wee have had a second <hi>Powder-Plot,</hi> which had not God wonderfully prevented, it might have proved of as dangerous consequence as the first: And thus it was; On Sabbath day 25<seg rend="sup">th</seg> of the said moneth, our whole Traine was intended by the Enemy to be blowne up: the Enemy plotting by
+<pb n="7" facs="tcp:196455:4"/> some members in our Army, caused two great baggs of wild-fire to be made, which was put into a Wag<g ref="char:EOLhyphen"/>gon, and two ends of Matches being tyed to the mouth's of both the bags, a Bandeleire being fasten'd to one of them, the bottome of it being broken out, and the end of the Match within the Bandeleire, the Regiment of Foote standing about the Artillery, the Match burning, and the Enemy round about the Towne, expecting execution, that they might be rea<g ref="char:EOLhyphen"/>dy to fall on, to cut the throats of our Forces: Now stand still, and see the salvation of God: The first Match burned cleane out to the Powder, and there dyes, doing no execution at all: The second Match was burned within two inches of the Powder, where the Controwler going to deliver out some Powder to the Regiments, found these things thus done, yet the actor in this bloudy intended Massacre is not found out; <hi>Digitus Dei;</hi> to the Lord, the dis<g ref="char:EOLhyphen"/>coverer of secrets, be all the glory.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
